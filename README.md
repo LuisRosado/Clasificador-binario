@@ -16,11 +16,14 @@ presencia de clases desbalanceadas en los datos.
 
 
 ![Resultados](https://github.com/LuisRosado/Clasificador-binario/assets/140114139/45a19f61-030e-4e2d-b8d7-a5124c4cf0b5)
+
 Figura 1: Prediccion de casos confirmados de COVID-19
 
 ![Grafica_1](https://github.com/LuisRosado/Clasificador-binario/assets/140114139/575de775-1147-44c3-9519-8cad41183fb0)
 
+
 Figura 2: Serie de tiempo de casos confirmados de COVID-19
 
 ![Grafica_2](https://github.com/LuisRosado/Clasificador-binario/assets/140114139/b97b8a94-07c9-4559-b613-e1da884c5e6c)
+
 Figura 3: Prediccion de casos confirmados de COVID-19
